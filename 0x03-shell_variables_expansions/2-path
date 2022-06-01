@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /action > /action
+echo -E "/action" > /action
