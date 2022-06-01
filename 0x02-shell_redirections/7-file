@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > /0x02-shell_redirections/\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+echo -e "Best School\n" >> \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
