@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr "hello user"
+cat 'hello user' | lpr
